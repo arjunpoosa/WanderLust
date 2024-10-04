@@ -1,0 +1,1 @@
+Wanderlust is a web application inspired by Airbnb that allows users to explore, book, and list vacation rentals. The platform is built with a full-stack JavaScript environment using HTML, CSS, JavaScript, Node.js, Express.js, and Bootstrap for styling.
